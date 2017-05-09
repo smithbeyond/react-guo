@@ -1,5 +1,8 @@
-# runt it
+#### runt it
+```
 npm start
-
-# build it
+```
+### build it
+```
 npm run build
+```
