@@ -1,1 +1,5 @@
-Frontend for guohaifeng
+# runt it
+npm start
+
+# build it
+npm run build
