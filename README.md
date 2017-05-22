@@ -1,3 +1,7 @@
+#### get dependence
+```
+npm install
+```
 #### runt it
 ```
 npm start
